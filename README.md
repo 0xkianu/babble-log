@@ -9,6 +9,6 @@ Create an account and login.  Once you login you can record your voice by pushin
 
 To view saved notes, use the Log button towards the top of the page.  The default folder for notes is the notes folder. If you want to create a new folder push the folder icon with the plus sign.  You can delete folders with the trashcan icon.  Navigate to a note link to view the full note.  Move the note to a different folder with the folder icon and delete the note with the trashcan icon.
 
-The site is deployed on AWS.  The page use a self-signed TLS/SSL certificate so you will have to proceed to the site after warnings.
+The site is deployed on AWS.  The page uses a self-signed TLS/SSL certificate so you will have to proceed to the site after warnings.
 
 https://www.thomasulee.com:3000
